@@ -36,7 +36,7 @@
 <div class="container">
     <h1>GALUH RINDIANI</h1>
     <p style="text-align:center;">
-        No HP: 08989187869
+ Email : galuhrindiani25@gmail.com | No HP : 08989187869
     </p>
 
     <hr>
