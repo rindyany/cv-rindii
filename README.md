@@ -4,7 +4,7 @@ Email: galuhrindiani25@gmail.com | No HP: +62 898-9187-869 | Bantul,Yogyakarta
 
     <div class="section">
         <h2>DATA PRIBADI</h2>
-        <div class="item"><strong>Tempat, Tgl Lahir</strong>: Bantul, 25 Mei 2008</div>
+        <div class="item"><strong>Tempat, Tgl Lahir</strong>: Bantul, 25 MEI 2008</div>
         <div class="item"><strong>Jenis Kelamin</strong>:  Perempuan</div>
         <div class="item"><strong>Agama</strong>: Islam</div>
         <div class="item"><strong>Status</strong>: Belum Menikah</div>
